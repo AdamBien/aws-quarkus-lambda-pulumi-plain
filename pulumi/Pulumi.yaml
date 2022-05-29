@@ -1,0 +1,3 @@
+name: aws-quarkus-lambda-pulumi-plain
+runtime: java
+description: Quarkus as Lambda provisioned with Pulumi
