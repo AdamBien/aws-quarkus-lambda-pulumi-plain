@@ -34,3 +34,7 @@ public class GreetingResource {
     <artifactId>quarkus-amazon-lambda-rest</artifactId>
 </dependency>
 ```
+
+## Deploying MicroProfile / Quarkus Application as AWS Lambda with Pulumi and Java
+
+[![Deploying MicroProfile / Quarkus Application as AWS Lambda with Java Pulumi](https://i.ytimg.com/vi/NA0WjIgp4CQ/mqdefault.jpg)](https://www.youtube.com/embed/NA0WjIgp4CQ?rel=0)
